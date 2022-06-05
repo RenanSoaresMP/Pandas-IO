@@ -10,8 +10,8 @@ Manipulação e tratamento de dados em vários formatos
 
 **Principais atividades feitas:**
 - Manipulação de dados em diferentes formatos;
-- Criação e diversas manipulações em listas e dataframes; 
--  Criação de gráfico para análises;
+- Criação de diversas manipulações em listas e dataframes; 
+- Criação de gráfico para análises;
 - Limpeza de dados;
 - Criação de Bancos SQL;
 - Buscas através de uma querySQL.
